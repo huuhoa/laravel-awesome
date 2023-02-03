@@ -11,6 +11,12 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 * [Email Verifications Using Laravel Workflow](https://medium.com/@rlmc/email-verifications-using-laravel-workflow-acd6707aa7b3)
 * [Scopes are way more powerful than you think !](https://medium.com/@codeaxion77/scopes-are-way-more-powerful-than-you-think-3b22de9844ed) scopes are not just for querying status active or completed etc…
 * [Save and logging of API requests and responses in Laravel Framework](https://medium.com/@imanborumand/save-and-logging-of-api-requests-and-responses-in-laravel-framework-2c949ff776ec)
+* [Laravel Real-Time Monitoring Using Inspector](https://hackernoon.com/laravel-real-time-monitoring-using-inspector-6bbu3yb1): Inspector monitors database query, background jobs, artisan commands by default, but could be many critical statements in your code that need to be monitored in terms of performance and error
+* [Make Your Application Scalable Optimizing the ORM Performance](https://hackernoon.com/make-your-application-scalable-optimizing-the-orm-performance-pq8q3yn2) with Inspector.dev
+* [Asynchronous PHP To Support Stability Of Your Application](https://medium.com/nerd-for-tech/asynchronous-php-to-support-stability-of-your-application-c59a33cc81fb): It’s important to know what flows we have in the system, as it’s the flow that give us clues, if we should make it asynchronous.
+* [How to find the slowest query in your Laravel application](https://medium.com/@cosmeescobedo/how-to-find-the-slowest-query-in-your-laravel-application-76ba6de04716): a neat way to profile all database queries easily.
+* [Actions, Services, Events, Listeners, Observers, Traits and Jobs in Laravel 9 — The Difference.](https://medium.com/@prevailexcellent/actions-services-events-listeners-observers-traits-and-jobs-in-laravel-9-the-difference-6da73c24c43a): The debate severally have been how to structure your project in Laravel. There are several schools of thought but frankly, everything is based on preference.
+* [7 Optimization Techniques in Laravel](https://safaetulahasan.medium.com/5-optimization-techniques-in-laravel-4646819bb23a): There are several techniques that you can use to optimize the performance of your Laravel application
 
 ## Architecture
 
