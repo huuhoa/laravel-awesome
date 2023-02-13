@@ -24,6 +24,15 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 * [How To Code Recursive Function To Get Subcategory Ids (Optimized & Unoptimized) Laravel](https://medium.com/@codeaxion77/how-to-code-recursive-function-to-get-subcategory-ids-optimized-unoptimized-laravel-56931c52dd49): Show You How To Get All Subcategory Ids Of A Parent Category Both “Optimized & Unoptimized”
 * [Laravel - Authorization Gates and Policies](https://laravel.com/docs/master/authorization): Laravel provides two primary ways of authorizing actions: gates and policies. Think of gates and policies like routes and controllers.
 
+## Scaling Laravel
+
+* [Does Laravel Scale?](https://usefathom.com/blog/does-laravel-scale): explore whether you can use Laravel at hyper-scale and whether it could be used to power something like Twitter, Facebook or various other huge applications.
+
+## Optimize Laravel application performance
+
+* [Top 12 Tips for Laravel Performance Optimization](https://logiciel.io/laravel-app-performance-optimization): several tips and tricks can help you optimize your application for speed
+* [Best 9 Tips To Improve The Performance Of A Laravel Application](https://www.corephp.com/blog/best-9-tips-improve-performance-laravel-application/): learn about the strategies and tricks for getting the most out of Laravel platform
+
 ## Architecture
 
 * [How to Differentiate Business and Service Layers in Layered Architecture](https://levelup.gitconnected.com/how-to-differentiate-business-and-service-layers-in-layered-architecture-912123b2ccf1): Exploring the relationship and differences between business logic and services.
