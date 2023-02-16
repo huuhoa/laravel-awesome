@@ -31,7 +31,10 @@ A curated list of bookmarks, packages, tutorials, videos and other cool resource
 ## Optimize Laravel application performance
 
 * [Top 12 Tips for Laravel Performance Optimization](https://logiciel.io/laravel-app-performance-optimization): several tips and tricks can help you optimize your application for speed
+* [12 Tips for Laravel Performance Optimization in 2023](https://www.cloudways.com/blog/laravel-performance-optimization/): This article explicitly focuses on improving your Laravel store’s performance by following the best optimization tips
 * [Best 9 Tips To Improve The Performance Of A Laravel Application](https://www.corephp.com/blog/best-9-tips-improve-performance-laravel-application/): learn about the strategies and tricks for getting the most out of Laravel platform
+* [How to Optimize PHP Laravel Web Application for High Performance?](https://geekflare.com/laravel-optimization/): learn some tricks of the trade to make it go faster!
+* [18 Tips to optimize laravel database queries](https://dudi.dev/optimize-laravel-database-queries): follow the below performance optimization tips to improve your application loading time.
 
 ## Architecture
 
